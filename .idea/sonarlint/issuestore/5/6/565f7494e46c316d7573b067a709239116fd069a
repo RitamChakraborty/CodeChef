@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´¸—
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½”ì
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëëj
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "arr".(®€ÁÇ
+R
+java:S1854)"7Remove this useless assignment to local variable "num".(¶òÔÖûÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ
+>
+java:S1481"(Remove this unused "arr" local variable.(®€ÁÇ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ

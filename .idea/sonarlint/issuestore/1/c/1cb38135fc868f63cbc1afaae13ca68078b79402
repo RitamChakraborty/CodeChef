@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´¸—
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½”ì
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î—Ê°
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(à¤’Ÿ
+T
+java:S1854"9Remove this useless assignment to local variable "count".(÷Ù¶Šùÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ

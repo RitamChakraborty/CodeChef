@@ -1,0 +1,7 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´¸—
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½”ì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯”Óîøÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ

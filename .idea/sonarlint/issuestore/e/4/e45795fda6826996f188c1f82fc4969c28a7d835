@@ -1,0 +1,19 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨´ÑÒşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’·µøÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "scanner".(ÃıÆşÿÿÿÿ
+G
+java:S1481",Remove this unused "scanner" local variable.(ÃıÆşÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(¢üî
+9
+java:S1659,"#Declare "start" on a separate line.(¦çÁû
+Q	java:S125 "<This block of commented-out lines of code should be removed.(æ–¦Ì
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¾£ùŸ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¾£ùŸ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+5
+java:S1659]"Declare "r" on a separate line.(ƒ˜´¯
+C	java:S108Y")Either remove or fill this block of code.(íéÇÿÿÿÿÿ
+H
+java:S1144"-Remove this unused private "getCount" method.(—æ£´ùÿÿÿÿ
