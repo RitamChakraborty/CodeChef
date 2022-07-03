@@ -21,6 +21,7 @@ public class Codechef {
                 for (int i = n; i >= 5; --i) {
                     stringJoiner.add(String.valueOf(i));
                 }
+
                 stringJoiner.add("1 2 4 3");
                 P.println(stringJoiner);
             }
